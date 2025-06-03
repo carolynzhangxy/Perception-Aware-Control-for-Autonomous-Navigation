@@ -1,0 +1,19 @@
+###==Requirements for control
+
+array2gif==1.0.4
+matplotlib==3.4.1
+moviepy==1.0.3
+NumPy==1.19.0
+Pandas==0.25.2
+Pillow==7.1.2
+
+#==Requirements for YOLOv10 and RT-DETR
+torch==2.0.1
+torchvision==0.15.2
+onnx==1.14.0
+onnxruntime==1.15.1
+pycocotools
+PyYAML
+scipy
+transformers
+# TensorFlow==2.2.0
